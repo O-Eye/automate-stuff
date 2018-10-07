@@ -1,2 +1,2 @@
 # automate-stuff
-Scripts / Codes - all things automate!
+All things automate!
